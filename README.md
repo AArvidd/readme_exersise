@@ -10,3 +10,7 @@ This program uses moastly malloc() to create a dynamic memory.
 ## Installation
 
 Just downlode the sorse code from this reposotort 
+
+## User Istructions
+
+To run the program just compile the sorse coad. The latest vertion of clang suld work.
